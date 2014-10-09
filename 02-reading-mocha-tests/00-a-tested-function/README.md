@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This exercise will give you a chance to create and test a function.
 
 We'll be working with a function that returns a valid HTML link tag, given the link's text and address.
@@ -25,3 +26,10 @@ To edit the code, launch Sublime from the current directory (`00-a-tested-functi
 When you see a green-colored "2 passing" message, you've successfully fixed the `linkTo` method, and have completed this exercise.
 
 Commit your changes and push your code to your repo when you're finished.
+=======
+This is the JavaScript exercise repo to accompany Bloc's Front-end Web Development apprenticeship.
+
+Follow the environment setup from the Roadmap before solving these exercises.
+
+> Before you start a new exercise, be sure to run `git pull bloc master` from your virtual machine's command line. This will pull the master branch of this repo into your local repo and merge updates with your changes. Updates to this repo will be pushed occasionally (when we add or fix new exercises, tests, etc.), and `git pull bloc master` will ensure that you are working with the latest exercises. You may also "watch" this repo to get email notifications of updates and issues.
+>>>>>>> ce8d41d6d1a47b07f62ab1b5aea7afde11fc4c35
